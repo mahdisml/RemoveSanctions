@@ -1,7 +1,9 @@
 # RemoveSanctions
 US Sanctions on Iranians Life :
 
-
+<br />
+<br />
+<br />
 
 BANKS :
 
@@ -21,8 +23,9 @@ BANKS :
 
 8.WireTransfers
 
-
-
+<br />
+<br />
+<br />
 
 DEVELOPMENT :
 
@@ -50,6 +53,9 @@ DEVELOPMENT :
 
 12.MySQL
 
+<br />
+<br />
+<br />
 
 APPS :
 
@@ -67,7 +73,8 @@ APPS :
 
 7.Intel Drivers
 
-
-
+<br />
+<br />
+<br />
 
 (I will accept PRs)
