@@ -39,7 +39,7 @@ DEVELOPMENT :
 
 5.Microsoft Azure Account
 
-6.Download Unity3D and use it
+6.Unity3D Game Engine
 
 7.Download Google AndroidStudio
 
@@ -52,6 +52,12 @@ DEVELOPMENT :
 11.AutoDesk Tools (3DS MAX,...)
 
 12.MySQL
+
+13.Jfrog
+
+14.GitLab
+
+15.Unreal Game Engine
 
 <br />
 <br />
@@ -72,6 +78,10 @@ APPS :
 6.Nvidia Drivers
 
 7.Intel Drivers
+
+8.AMD Drivers
+
+9.Google Clouds
 
 <br />
 <br />
