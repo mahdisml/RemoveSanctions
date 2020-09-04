@@ -1,6 +1,8 @@
 # RemoveSanctions
 US Sanctions on Iranians Life :
 
+This is not all during the Nazi era and the 1940s!
+
 <br />
 <br />
 <br />
