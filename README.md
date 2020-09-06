@@ -43,6 +43,8 @@ Microsoft Azure Account
 
 Unity3D Game Engine
 
+Unreal Game Engine
+
 Download Google AndroidStudio
 
 Google Analytics Account
@@ -59,8 +61,6 @@ Jfrog
 
 GitLab
 
-Unreal Game Engine
-
 <br />
 <br />
 <br />
@@ -76,8 +76,6 @@ Installing Oracle Java
 Using Amazon
 
 Using Ebay
-
-Google Clouds
 
 <br />
 <br />
